@@ -1,0 +1,139 @@
+{
+	"code":0,
+	"result":{
+		"data":{
+			"titles":[
+				{
+					"field":"number",
+					"text":"序号"
+				},{
+					"field":"name",
+					"text":"姓名"
+				},{
+					"field":"jobnumber",
+					"text":"工号"
+				},{
+					"field":"account",
+					"text":"管理员账号"
+				},{
+					"field":"password",
+					"text":"管理员密码"
+				}
+			],
+			"values":[
+				{
+					"number":"1",
+					"name":"花花花花花花花花",
+					"jobnumber":"1323",
+					"account":"weeru@163.com",
+					"password":"123456826"
+					
+				},{
+					"number":"2",
+					"name":"花花",
+					"jobnumber":"1323",
+					"account":"weeru@163.com",
+					"password":"123456826"
+				},{
+					"number":"3",
+					"name":"花花",
+					"jobnumber":"1323",
+					"account":"weeru@163.com",
+					"password":"123456826"
+				},{
+					"number":"4",
+					"name":"花花",
+					"jobnumber":"1323",
+					"account":"weeru@163.com",
+					"password":"123456826"
+				},{
+					"number":"5",
+					"name":"花花",
+					"jobnumber":"1323",
+					"account":"weeru@163.com",
+					"password":"123456826"
+				},{
+					"number":"6",
+					"name":"花花",
+					"jobnumber":"1323",
+					"account":"weeru@163.com",
+					"password":"123456826"
+				},{
+					"number":"7",
+					"name":"花花",
+					"jobnumber":"1323",
+					"account":"weeru@163.com",
+					"password":"123456826"
+				},{
+					"number":"8",
+					"name":"花花",
+					"jobnumber":"1323",
+					"account":"weeru@163.com",
+					"password":"123456826"
+				},{
+					"number":"9",
+					"name":"花花",
+					"jobnumber":"1323",
+					"account":"weeru@163.com",
+					"password":"123456826"
+				}
+			],
+			"options":[
+				{
+					"text":"确认删除",
+					"type":"delete",
+					"enabled":"true"
+					
+				},{
+					"text":"确认删除",
+					"type":"delete",
+					"enabled":"true"
+					
+				},{
+					"text":"确认删除",
+					"type":"delete",
+					"enabled":"true"
+					
+				},{
+					"text":"确认删除",
+					"type":"delete",
+					"enabled":"true"
+					
+				},{
+					"text":"确认删除",
+					"type":"delete",
+					"enabled":"true"
+					
+				},{
+					"text":"确认删除",
+					"type":"delete",
+					"enabled":"true"
+					
+				},{
+					"text":"确认删除",
+					"type":"delete",
+					"enabled":"true"
+					
+				},{
+					"text":"确认删除",
+					"type":"delete",
+					"enabled":"true"
+					
+				},{
+					"text":"确认删除",
+					"type":"delete",
+					"enabled":"true"
+					
+				}
+			]
+			
+		},
+		"page":{
+			"curPage":"1",
+			"pageSize":"10",
+			"totalNum":"282",
+			"totalPage":"29"
+		}
+	}
+}
+

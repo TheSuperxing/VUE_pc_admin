@@ -1,0 +1,385 @@
+$activeColor: #2eb3cf;
+$bfColor:#f7f9fc;
+.company{
+  //winth:1200px;
+  //padding:40px;
+  margin:0 auto;
+  font-family:'Microsoft Yahei';
+  .c-title{
+      height:34px;
+      border-bottom:1px solid #ebebeb;
+      text-align: left;
+      span{
+        font-family:'Microsoft Yahei';
+        color:#2eb3cf;
+        padding-bottom:14px;
+        font-size:18px;
+        line-height:18px;
+        border-bottom:2px solid $activeColor;
+        display:inline-block;
+      }
+   }
+  .companyIndex{
+    width:940px;
+    padding:40px;
+    background-color:$bfColor;
+
+    float:left;
+    border-radius:5px;
+    .companyMessage{
+      text-align: left;
+      padding-bottom:40px;
+      overflow:hidden;
+      border-bottom:1px solid #ebebeb;
+      .m-logo{
+        width:113px;
+        height:113px;
+        background: pink;
+        float:left;
+
+      }
+      .m-warp{
+        float: left;
+        margin-left:40px;
+        .companyName{
+          font-size:24px;
+          line-height:24px;
+          color:#2eb3cf;
+          font-family:'Microsoft Yahei';
+          margin-top:30px;
+
+        }
+        .companyAddress{
+          font-size:18px;
+          line-height:18px;
+          color:#6f6f6f;
+          font-family:'Microsoft Yahei';
+          margin-top:14px;
+
+        }
+      }
+
+    }
+
+    .companyProfile{
+      margin-top:70px;
+      div{
+        margin:30px 0;
+        font-size: 14px;
+        color:#353535;
+        font-family: 'Microsoft Yahei';
+
+      }
+
+    }
+    .companyLicense{
+      div{
+        margin:30px 0;
+        img{
+            float:left;
+            margin-right: 20px;
+            &:last-child{
+                margin-right: 0;
+            }
+
+        }
+      }
+
+    }
+    .companyApitute{
+      div{
+        margin:30px 0;
+        img{
+            float:left;
+            margin-right: 20px;
+            &:last-child{
+                margin-right: 0;
+            }
+
+        }
+      }
+
+    }
+    .companyTm{
+      div{
+        margin:30px 0;
+        img{
+            width: 100px;
+            height: 100px;
+            float: left;
+            margin-right: 30px;
+            &:last-child{
+                margin-right: 0;
+            }
+
+        }
+      }
+
+    }
+    .cadreman{
+      div{
+        margin:30px 0;
+        img{
+            width: 80px;
+            height: 80px;
+            float: left;
+            margin-right: 30px;
+            &:last-child{
+                margin-right: 0;
+            }
+
+        }
+      }
+
+    }
+    .companyShow{
+      div{
+        margin:30px 0;
+        .projectName{
+            font-size: 18px;
+            font-family: "microsoft yahei";
+            color: $activeColor;
+            font-weight: bold;
+            line-height: 18px;
+
+        }
+        .pr-wrap-a{
+            height: 18px;
+            line-height: 18px;
+            font-size: 18px;
+            font-family: "microsoft yahei";
+            line-height: 18px;
+            margin: 20px 0;
+            .completeTime{
+                font-size: 18px;
+                font-family: "microsoft yahei";
+            }
+            .takeOfficeBar{
+                font-size: 18px;
+                font-family: "microsoft yahei";
+                float: right;
+            }
+        }
+
+
+      }
+
+    }
+
+  }
+  .companyAccountIndex{
+    width:940px; height: 600px;
+    padding:40px;
+    background-color:$bfColor;
+    float:left;
+    border-radius:5px;
+    position: relative;
+    .cA-BasicInfo{
+        padding-top: 32px;
+        padding-bottom: 30px;
+        border-bottom: 1px solid #ebebeb;
+        overflow: hidden;
+        li{
+            margin-bottom: 30px;
+            height: 20px;
+            line-height: 20px;
+            text-align: left;
+//          overflow: hidden;
+            .info-left{
+                float: left;
+                margin-right: 50px;
+                img{
+                    width: 16px;
+                    margin-left:40px;
+                    margin-right: 17px;
+                }
+
+            }
+            .registerTime,.companyMail,.companyPassword{
+                float: left;
+            }
+            &:last-child{
+                position: relative;
+                margin-bottom: 0;
+                .editPwd{
+                    cursor: pointer;
+                    position: absolute;
+                    right: 0;
+                    display: inline-block;
+                    padding-left: 27px;
+                    color: $activeColor;
+                    height: 15px;
+                    line-height: 15px;
+                    overflow: hidden;
+                    background: url(../img/company/edit.png) no-repeat left center;
+                }
+            }
+
+        }
+
+    }
+    .cA-contactInfo{
+        padding-top: 32px;
+        padding-bottom: 30px;
+        overflow: hidden;
+        .editCtr{
+            cursor: pointer;
+            float: left;
+            width: 100%;
+            height: 15px;
+            line-height: 15px;
+            margin-top: 20px;
+            padding-left: 27px;
+            color: $activeColor;
+            background: url(../img/company/edit.png) no-repeat left center;
+        }
+        .contactor{
+            width: 260px;
+            height: 104px;
+//          padding: 30px;
+            background: #FFFFFF;
+            border-radius: 5px;
+            float: left;
+            margin-right: 40px;
+            dl{
+                dt{
+                    margin-top: 30px;
+                    margin-left: 30px;
+                    img{
+                        width: 37px;
+                        height: 42px;
+                        float: left;
+                        margin-right: 30px;
+                    }
+                }
+                dd{
+                    float: left;
+                    .contactN{
+                        font-size: 18px;
+                        height: 18px;
+                        line-height: 18px;
+                        margin-bottom: 12px;
+
+                    }
+                    .contactP{
+                        font-size: 14px;
+                        height: 14px;
+                        line-height: 14px;
+                    }
+                }
+            }
+        }
+    }
+  }
+  .companyConfirm{
+    width:940px;
+    padding:40px;
+    background-color:$bfColor;
+
+    float:left;
+    border-radius:5px;
+  }
+  .companyInfo{
+    width:940px;
+    padding:40px;
+    background-color:$bfColor;
+
+    float:left;
+    border-radius:5px;
+  }
+  .companyOrganiz{
+    width:940px;
+    padding:40px;
+    background-color:$bfColor;
+
+    float:left;
+    border-radius:5px;
+  }
+  .companyProject{
+    width:940px;
+    padding:40px;
+    background-color:$bfColor;
+
+    float:left;
+    border-radius:5px;
+  }
+
+.companySlider{
+    width:240px;
+
+    background:$bfColor;
+    float:left;
+    margin-left:20px;
+    border-radius:5px;
+
+    overflow:hidden;
+
+    .companySliderNavList{
+      width:240px;
+//    height:370px;
+      li{
+        width:240px;
+        height: 61px;
+        a{
+          width: 240px;
+//        height: 52px;
+          color: #353535;
+
+          display: inline-block;
+
+          &.router-link-active{
+              color:$activeColor;
+          }
+          .companySliderBorder{
+              width: 240px;
+              height: 61px;
+              padding-top: 20px;
+              padding-bottom: 20px;
+              padding-left: 42px;
+              font-size: 14px;
+               border-left:2px solid $bfColor;
+
+            div{
+              float: left;
+              position: relative;
+//            top:18px;
+              width:21px;
+              height:21px;
+              z-index: 0;
+              img{
+                position: absolute;
+                top: 0;
+                left:0;
+                z-index: 0;
+              }
+              img:nth-child(1){
+                display: block;
+              }
+              img:nth-child(2){
+                display: none;
+              }
+            }
+            p{
+              float: left;
+//            line-height: 52px;
+              padding-left: 18px;
+            }
+          }
+        }
+      }
+      .selected{
+        a{
+          .companySliderBorder{
+            border-left:2px solid #2eb3cf;
+            img:nth-child(1){
+              display: none;
+            }
+            img:nth-child(2){
+              display: block;
+            }
+          }
+        }
+      }
+    }
+}
+}

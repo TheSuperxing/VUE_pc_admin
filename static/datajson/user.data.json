@@ -1,0 +1,198 @@
+{
+	"code":0,
+	"result":{
+		"data":{
+			"titles":[
+				{
+					"field":"number",
+					"text":"序号"
+				},{
+					"field":"name",
+					"text":"姓名"
+				},{
+					"field":"sex",
+					"text":"性别"
+				},{
+					"field":"jobnumber",
+					"text":"工号"
+				},{
+					"field":"mail",
+					"text":"邮箱"
+				},{
+					"field":"phone",
+					"text":"手机"
+				},{
+					"field":"wechat",
+					"text":"微信"
+				},{
+					"field":"qq",
+					"text":"QQ"
+				},{
+					"field":"isatpost",
+					"text":"是否在职"
+				},{
+					"field":"entryTime",
+					"text":"入职时间"
+				}
+			],
+			"values":[
+				{
+					"number":"1",
+					"name":"花花花花花花花花",
+					"sex":"女",
+					"jobnumber":"1323",
+					"mail":"weeru@163.com",
+					"phone":"123456826",
+					"wechat":"123654821",
+					"qq":"456862",
+					"isatpost":"在职",
+					"entryTime":"2017-8-15 9:00"
+				},{
+					"number":"2",
+					"name":"花花",
+					"sex":"女",
+					"jobnumber":"1323",
+					"mail":"weeru@163.com",
+					"phone":"123456826",
+					"wechat":"123654821",
+					"qq":"456862",
+					"isatpost":"在职",
+					"entryTime":"2017-8-15 9:00"
+				},{
+					"number":"3",
+					"name":"花花",
+					"sex":"女",
+					"jobnumber":"1323",
+					"mail":"weeru@163.com",
+					"phone":"123456826",
+					"wechat":"123654821",
+					"qq":"456862",
+					"isatpost":"在职",
+					"entryTime":"2017-8-15 9:00"
+				},{
+					"number":"4",
+					"name":"花花",
+					"sex":"女",
+					"jobnumber":"1323",
+					"mail":"weeru@163.com",
+					"phone":"123456826",
+					"wechat":"123654821",
+					"qq":"456862",
+					"isatpost":"在职",
+					"entryTime":"2017-8-15 9:00"
+				},{
+					"number":"5",
+					"name":"花花",
+					"sex":"女",
+					"jobnumber":"1323",
+					"mail":"weeru@163.com",
+					"phone":"123456826",
+					"wechat":"123654821",
+					"qq":"456862",
+					"isatpost":"在职",
+					"entryTime":"2017-8-15 9:00"
+				},{
+					"number":"6",
+					"name":"花花",
+					"sex":"女",
+					"jobnumber":"1323",
+					"mail":"weeru@163.com",
+					"phone":"123456826",
+					"wechat":"123654821",
+					"qq":"456862",
+					"isatpost":"在职",
+					"entryTime":"2017-8-15 9:00"
+				},{
+					"number":"7",
+					"name":"花花",
+					"sex":"女",
+					"jobnumber":"1323",
+					"mail":"weeru@163.com",
+					"phone":"123456826",
+					"wechat":"123654821",
+					"qq":"456862",
+					"isatpost":"在职",
+					"entryTime":"2017-8-15 9:00"
+				},{
+					"number":"8",
+					"name":"花花",
+					"sex":"女",
+					"jobnumber":"1323",
+					"mail":"weeru@163.com",
+					"phone":"123456826",
+					"wechat":"123654821",
+					"qq":"456862",
+					"isatpost":"在职",
+					"entryTime":"2017-8-15 9:00"
+				},{
+					"number":"9",
+					"name":"花花",
+					"sex":"女",
+					"jobnumber":"1323",
+					"mail":"weeru@163.com",
+					"phone":"123456826",
+					"wechat":"123654821",
+					"qq":"456862",
+					"isatpost":"在职",
+					"entryTime":"2017-8-15 9:00"
+				}
+			],
+			"options":[
+				{
+					"text":"删除",
+					"type":"delete",
+					"enabled":"true"
+					
+				},{
+					"text":"删除",
+					"type":"delete",
+					"enabled":"true"
+					
+				},{
+					"text":"删除",
+					"type":"delete",
+					"enabled":"true"
+					
+				},{
+					"text":"删除",
+					"type":"delete",
+					"enabled":"true"
+					
+				},{
+					"text":"删除",
+					"type":"delete",
+					"enabled":"true"
+					
+				},{
+					"text":"删除",
+					"type":"delete",
+					"enabled":"true"
+					
+				},{
+					"text":"删除",
+					"type":"delete",
+					"enabled":"true"
+					
+				},{
+					"text":"删除",
+					"type":"delete",
+					"enabled":"true"
+					
+				},{
+					"text":"删除",
+					"type":"delete",
+					"enabled":"true"
+					
+				}
+			]
+			
+		},
+		"page":{
+			"curPage":"1",
+			"pageSize":"10",
+			"totalNum":"282",
+			"totalPage":"29"
+		}
+	}
+}
+

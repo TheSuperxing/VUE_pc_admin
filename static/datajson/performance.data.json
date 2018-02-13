@@ -1,0 +1,198 @@
+{
+	"code":0,
+	"result":{
+		"data":{
+			"titles":[
+				{
+					"field":"number",
+					"text":"序号"
+				},{
+					"field":"account",
+					"text":"管理员账号"
+				},{
+					"field":"name",
+					"text":"管理员姓名"
+				},{
+					"field":"date",
+					"text":"日期选择"
+				},{
+					"field":"finishedNumber",
+					"text":"完成条数"
+				},{
+					"field":"customerSatisfaction",
+					"text":"客户满意"
+				},{
+					"field":"customerComplaint",
+					"text":"手机"
+				},{
+					"field":"addSupplier",
+					"text":"供应商信息新建"
+				},{
+					"field":"updateSupplier",
+					"text":"供应商信息更新"
+				},{
+					"field":"updateMaterials",
+					"text":"材料信息更新"
+				}
+			],
+			"values":[
+				{
+					"number":"1",
+					"account":"38247",
+					"name":"花花花花花花花花",
+					"date":"2017-8-15 9:00",
+					"finishedNumber":"1323",
+					"customerSatisfaction":"444",
+					"customerComplaint":"323",
+					"addSupplier":"23",
+					"updateSupplier":"21",
+					"updateMaterials":"11"
+				},{
+					"number":"2",
+					"account":"38247",
+					"name":"花花花花花花花花",
+					"date":"2017-8-15 9:00",
+					"finishedNumber":"1323",
+					"customerSatisfaction":"444",
+					"customerComplaint":"323",
+					"addSupplier":"23",
+					"updateSupplier":"21",
+					"updateMaterials":"11"
+				},{
+					"number":"3",
+					"account":"38247",
+					"name":"花花花花花花花花",
+					"date":"2017-8-15 9:00",
+					"finishedNumber":"1323",
+					"customerSatisfaction":"444",
+					"customerComplaint":"323",
+					"addSupplier":"23",
+					"updateSupplier":"21",
+					"updateMaterials":"11"
+				},{
+					"number":"4",
+					"account":"38247",
+					"name":"花花花花花花花花",
+					"date":"2017-8-15 9:00",
+					"finishedNumber":"1323",
+					"customerSatisfaction":"444",
+					"customerComplaint":"323",
+					"addSupplier":"23",
+					"updateSupplier":"21",
+					"updateMaterials":"11"
+				},{
+					"number":"5",
+					"account":"38247",
+					"name":"花花花花花花花花",
+					"date":"2017-8-15 9:00",
+					"finishedNumber":"1323",
+					"customerSatisfaction":"444",
+					"customerComplaint":"323",
+					"addSupplier":"23",
+					"updateSupplier":"21",
+					"updateMaterials":"11"
+				},{
+					"number":"6",
+					"account":"38247",
+					"name":"花花花花花花花花",
+					"date":"2017-8-15 9:00",
+					"finishedNumber":"1323",
+					"customerSatisfaction":"444",
+					"customerComplaint":"323",
+					"addSupplier":"23",
+					"updateSupplier":"21",
+					"updateMaterials":"11"
+				},{
+					"number":"7",
+					"account":"38247",
+					"name":"花花花花花花花花",
+					"date":"2017-8-15 9:00",
+					"finishedNumber":"1323",
+					"customerSatisfaction":"444",
+					"customerComplaint":"323",
+					"addSupplier":"23",
+					"updateSupplier":"21",
+					"updateMaterials":"11"
+				},{
+					"number":"8",
+					"account":"38247",
+					"name":"花花花花花花花花",
+					"date":"2017-8-15 9:00",
+					"finishedNumber":"1323",
+					"customerSatisfaction":"444",
+					"customerComplaint":"323",
+					"addSupplier":"23",
+					"updateSupplier":"21",
+					"updateMaterials":"11"
+				},{
+					"number":"9",
+					"account":"38247",
+					"name":"花花花花花花花花",
+					"date":"2017-8-15 9:00",
+					"finishedNumber":"1323",
+					"customerSatisfaction":"444",
+					"customerComplaint":"323",
+					"addSupplier":"23",
+					"updateSupplier":"21",
+					"updateMaterials":"11"
+				}
+			],
+			"options":[
+				{
+					"text":"删除",
+					"type":"delete",
+					"enabled":"true"
+					
+				},{
+					"text":"删除",
+					"type":"delete",
+					"enabled":"true"
+					
+				},{
+					"text":"删除",
+					"type":"delete",
+					"enabled":"true"
+					
+				},{
+					"text":"删除",
+					"type":"delete",
+					"enabled":"true"
+					
+				},{
+					"text":"删除",
+					"type":"delete",
+					"enabled":"true"
+					
+				},{
+					"text":"删除",
+					"type":"delete",
+					"enabled":"true"
+					
+				},{
+					"text":"删除",
+					"type":"delete",
+					"enabled":"true"
+					
+				},{
+					"text":"删除",
+					"type":"delete",
+					"enabled":"true"
+					
+				},{
+					"text":"删除",
+					"type":"delete",
+					"enabled":"true"
+					
+				}
+			]
+			
+		},
+		"page":{
+			"curPage":"1",
+			"pageSize":"10",
+			"totalNum":"282",
+			"totalPage":"29"
+		}
+	}
+}
+

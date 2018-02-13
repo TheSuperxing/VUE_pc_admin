@@ -1,0 +1,56 @@
+@mixin boxSizing() {
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	-o-box-sizing: border-box;
+}
+
+@mixin verticalMiddle($x:0, $y:-50%) {
+	position: absolute;
+	@if $y!=0{
+		top: 50%;
+	}
+	@if $x!=0 {
+		left: 50%;
+		$x: -50%;
+	}
+
+	transform: translateX($x) translateY($y);
+	-webkit-transform: translateX($x) translateY($y);
+	-moz-transform: translateX($x) translateY($y);
+	-ms-transform: translateX($x) translateY($y);
+	-o-transform: translateX($x) translateY($y);
+}
+
+@mixin rotate($z:90deg) {
+	transform: rotate($z);
+	-webkit-transform: rotate($z);
+	-moz-transform: rotate($z);
+	-ms-transform: rotate($z);
+	-o-transform: rotate($z);
+}
+
+@mixin scale($x, $y:$x) {
+	transform: scale($x, $y);
+	-webkit-transform: scale($x, $y);
+	-moz-transform: scale($x, $y);
+	-ms-transform: scale($x, $y);
+	-o-transform: scale($x, $y);
+}
+
+@mixin translate($x:0, $y:0, $z:0) {
+	transform: translateX($x) translateY($y) translateZ($z);
+	-webkit-transform: translateX($x) translateY($y) translateZ($z);
+	-moz-transform: translateX($x) translateY($y) translateZ($z);
+	-ms-transform: translateX($x) translateY($y) translateZ($z);
+	-o-transform: translateX($x) translateY($y) translateZ($z);
+}
+
+@mixin noSelect(){
+	user-select: none;
+	-ms-user-select: none;
+	-moz-user-select: none;
+	-o-user-select: none;
+	-webkit-user-select: none;
+} 

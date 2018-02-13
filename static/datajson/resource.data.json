@@ -1,0 +1,150 @@
+{
+	"code":0,
+	"result":{
+		"data":{
+			"titles":[
+				{
+					"field":"name",
+					"text":"姓名"
+				},{
+					"field":"accountType",
+					"text":"账号类型"
+				},{
+					"field":"detailNumber",
+					"text":"详细号码"
+				},{
+					"field":"password",
+					"text":"相关密码"
+				},{
+					"field":"isatpost",
+					"text":"是否在职"
+				},{
+					"field":"entryTime",
+					"text":"入职时间"
+				}
+			],
+			"values":[
+				{
+					"name":"花花花花花花花花",
+					"accountType":"b12",
+					"detailNumber":"13223",
+					"password":"12355566",
+					"isatpost":"在职",
+					"entryTime":"2017-8-15 9:00"
+				},{
+					"name":"花花花花花花花花",
+					"accountType":"b12",
+					"detailNumber":"13223",
+					"password":"12355566",
+					"isatpost":"在职",
+					"entryTime":"2017-8-15 9:00"
+				},{
+					"name":"花花花花花花花花",
+					"accountType":"b12",
+					"detailNumber":"13223",
+					"password":"12355566",
+					"isatpost":"在职",
+					"entryTime":"2017-8-15 9:00"
+				},{
+					"name":"花花花花花花花花",
+					"accountType":"b12",
+					"detailNumber":"13223",
+					"password":"12355566",
+					"isatpost":"在职",
+					"entryTime":"2017-8-15 9:00"
+				},{
+					"name":"花花花花花花花花",
+					"accountType":"b12",
+					"detailNumber":"13223",
+					"password":"12355566",
+					"isatpost":"在职",
+					"entryTime":"2017-8-15 9:00"
+				},{
+					"name":"花花花花花花花花",
+					"accountType":"b12",
+					"detailNumber":"13223",
+					"password":"12355566",
+					"isatpost":"在职",
+					"entryTime":"2017-8-15 9:00"
+				},{
+					"name":"花花花花花花花花",
+					"accountType":"b12",
+					"detailNumber":"13223",
+					"password":"12355566",
+					"isatpost":"在职",
+					"entryTime":"2017-8-15 9:00"
+				},{
+					"name":"花花花花花花花花",
+					"accountType":"b12",
+					"detailNumber":"13223",
+					"password":"12355566",
+					"isatpost":"在职",
+					"entryTime":"2017-8-15 9:00"
+				},{
+					"name":"花花花花花花花花",
+					"accountType":"b12",
+					"detailNumber":"13223",
+					"password":"12355566",
+					"isatpost":"在职",
+					"entryTime":"2017-8-15 9:00"
+				}
+			],
+			"options":[
+				{
+					"text":"删除",
+					"type":"delete",
+					"enabled":"true"
+					
+				},{
+					"text":"删除",
+					"type":"delete",
+					"enabled":"true"
+					
+				},{
+					"text":"删除",
+					"type":"delete",
+					"enabled":"true"
+					
+				},{
+					"text":"删除",
+					"type":"delete",
+					"enabled":"true"
+					
+				},{
+					"text":"删除",
+					"type":"delete",
+					"enabled":"true"
+					
+				},{
+					"text":"删除",
+					"type":"delete",
+					"enabled":"true"
+					
+				},{
+					"text":"删除",
+					"type":"delete",
+					"enabled":"true"
+					
+				},{
+					"text":"删除",
+					"type":"delete",
+					"enabled":"true"
+					
+				},{
+					"text":"删除",
+					"type":"delete",
+					"enabled":"true"
+					
+				}
+			]
+			
+		},
+		"page":{
+			"curPage":"1",
+			"pageSize":"10",
+			"totalNum":"282",
+			"totalPage":"29"
+		}
+	}
+}
+

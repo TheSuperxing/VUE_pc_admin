@@ -1,0 +1,82 @@
+{
+	"code":0,
+	"result":{
+		"data":{
+			"titles":[
+				{
+					"field":"roleType",
+					"text":"角色类型"
+				},{
+					"field":"accountType",
+					"text":"账号类型"
+				}
+			],
+			"values":[
+				{
+					"roleType":"询价员",
+					"accountType":[
+						"花花花花",
+						"苏苏苏苏",
+						"哒哒哒"
+					]
+					
+				},{
+					"roleType":"审核员",
+					"accountType":[
+						"花花花花",
+						"苏苏苏苏",
+						"哒哒哒"
+					]
+					
+				},{
+					"roleType":"分类管理员",
+					"accountType":[
+						"花花花花",
+						"苏苏苏苏",
+						"哒哒哒"
+					]
+					
+				},{
+					"roleType":"行政员",
+					"accountType":[
+						"花花花花",
+						"苏苏苏苏",
+						"哒哒哒"
+					]
+					
+				}
+			],
+			"options":[
+				{
+					"text":"删除",
+					"type":"delete",
+					"enabled":"true"
+					
+				},{
+					"text":"删除",
+					"type":"delete",
+					"enabled":"true"
+					
+				},{
+					"text":"删除",
+					"type":"delete",
+					"enabled":"true"
+					
+				},{
+					"text":"删除",
+					"type":"delete",
+					"enabled":"true"
+					
+				}
+			]
+			
+		},
+		"page":{
+			"curPage":"1",
+			"pageSize":"10",
+			"totalNum":"282",
+			"totalPage":"29"
+		}
+	}
+}
+
